@@ -1,0 +1,12 @@
+C:\Users\keyur\source\repos\ReportCardManagementSystem\Debug\ReportCardManagementSystem.DisplayAll.resources
+C:\Users\keyur\source\repos\ReportCardManagementSystem\Debug\ReportCardManagementSystem.Form1.resources
+C:\Users\keyur\source\repos\ReportCardManagementSystem\Debug\ReportCardManagementSystem.Form2.resources
+C:\Users\keyur\source\repos\ReportCardManagementSystem\Debug\ReportCardManagementSystem.Form3.resources
+C:\Users\keyur\source\repos\ReportCardManagementSystem\Debug\ReportCardManagementSystem.Form4.resources
+C:\Users\keyur\source\repos\ReportCardManagementSystem\Debug\ReportCardManagementSystem.Form5.resources
+C:\Users\keyur\source\repos\ReportCardManagementSystem\Debug\ReportCardManagementSystem.GetData.resources
+C:\Users\keyur\source\repos\ReportCardManagementSystem\Debug\ReportCardManagementSystem.modifyStudent.resources
+C:\Users\keyur\source\repos\ReportCardManagementSystem\Debug\ReportCardManagementSystem.SearchStudent1.resources
+C:\Users\keyur\source\repos\ReportCardManagementSystem\Debug\ReportCardManagementSystem.vcxproj.GenerateResource.cache
+C:\Users\keyur\source\repos\ReportCardManagementSystem\Debug\ReportCardManagementSystem.exe
+C:\Users\keyur\source\repos\ReportCardManagementSystem\Debug\ReportCardManagementSystem.vcxprojAssemblyReference.cache
